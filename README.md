@@ -8,7 +8,7 @@ This repository contains the source code for a social networking application bui
 1. Clone the repository:
 
 ```bash
-git clone https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fsocial-network-app.git&data=05%7C02%7Caivanov%40sisecam.com%7Cf790d06a4b2047d4388908dc127d7c61%7C4067565cd76c459abebf0d0a802924f8%7C0%7C0%7C638405577368467812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=sjqOErYEYSnGfOigzGsiDBwMgSOd90SOS71w6tLp06M%3D&reserved=0
+git clone git@github.com:Rancid911/myreactfrontend.git
 cd social-network-app
 ```
 
