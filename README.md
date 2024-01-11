@@ -3,6 +3,9 @@
 
 This repository contains the source code for a social networking application built with React and Node.js. Users can register, follow others, engage in chat conversations, and utilize a search feature to find messages.
 
+![image](https://github.com/Rancid911/myreactfrontend/assets/99717873/3438015e-5d80-4ff1-8308-77287b4a4154)
+
+
 ## Getting Started
 
 1. Clone the repository:
